@@ -9,12 +9,8 @@ Khushal
 5. Push the commited changes to the `main` branch of your forked repository `git push origin main`
 6. Go to your forked repository on GitHub. Create a pull request from the `🔃Contribute` button provided there. Providing a detailed description as well as screenshots and if possible, video-snippets of the changes made is highly encouraged while creating the pull request.
 
+1. Repo Forked Somil
+=======
 2.Suvrayan Bandyopadhyay
 =======
-
-
-
-
-
-
 
