@@ -64,11 +64,9 @@ The project addresses the need for a seamless clearance process covering various
 - Blockchain: Ethereum (ERC721)
 
 ## Contributors
-- [List of contributors]
+- Team Draco Members
 
 ## License
-This project is licensed under [License Name].
+This project is licensed under MIT.
 
-## Acknowledgements
-- [List of acknowledgements]
 
