@@ -63,6 +63,14 @@ The project addresses the need for a seamless clearance process covering various
 - Database: MySQL
 - Blockchain: Ethereum (ERC721)
 
+## Video Demo 
+
+
+
+https://github.com/hemantchaurasia2004/EzDues_Draco/assets/115251521/434050d4-f405-46e9-855c-8f2ea5e32e81
+
+
+
 ## Contributors
 - Team Draco Members
 
