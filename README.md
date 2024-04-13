@@ -42,6 +42,8 @@ The project addresses the need for a seamless clearance process covering various
 
 ## Additional Features
 - **Certificate Verification using Blockchain (ERC721):** Implemented ERC721 to create "No Dues" certificates as Non-Fungible Tokens (NFTs), ensuring authenticity and security.
+- ### Deployed Contract Address - 0x19bE2Fe2F37FB32F65e5cA78610188A183D220d1 (Sepolia TestNet)
+      To verify click on the link - [https://sepolia.etherscan.io/address/0x19bE2Fe2F37FB32F65e5cA78610188A183D220d1]
 
 ## Usage
 1. **Student:** Log in, complete the clearance checklist, upload payment proofs if necessary, and request "No Dues".
