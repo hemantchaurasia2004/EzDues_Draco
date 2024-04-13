@@ -37,7 +37,8 @@ The project addresses the need for a seamless clearance process covering various
 ### Entity Relationship Diagram
 
 
-![ezdues drawio](https://github.com/hemantchaurasia2004/EzDues_Draco/assets/115251521/6954e57f-db9c-4370-b4a6-e821b23bd314)
+![ezdues drawio](https://github.com/hemantchaurasia2004/EzDues_Draco/assets/115251521/4fd45c29-a5d8-4424-8cc3-7190c39353c1)
+
 
 
 ## Additional Features
