@@ -17,6 +17,10 @@ The project addresses the need for a seamless clearance process covering various
 - Comprehensive clearance checklist outlining necessary clearances, deadlines, and outstanding dues.
 - Ability to upload payment proofs and pay fines through the portal.
 - Email reminders for dues with approaching deadlines.
+  
+  
+![Sign In using Outlook (1)](https://github.com/hemantchaurasia2004/EzDues_Draco/assets/115251521/176fc6fa-63ce-4376-9ec7-057223e99f66)
+
 
 ### Departments
 - Dashboard displaying details of dues owed by students.
@@ -34,7 +38,7 @@ The project addresses the need for a seamless clearance process covering various
 - **Certificate Verification using Blockchain (ERC721):** Implemented ERC721 to create "No Dues" certificates as Non-Fungible Tokens (NFTs), ensuring authenticity and security.
 
 ## Usage
-1. **Student:** Log in, complete clearance checklist, upload payment proofs if necessary, and request "No Dues".
+1. **Student:** Log in, complete the clearance checklist, upload payment proofs if necessary, and request "No Dues".
 2. **Departments:** Review clearance requests, verify payments, and issue "No Dues" certificates.
 3. **Admin:** Manage student accounts, oversee system operation, and utilize additional features like bulk registration and fine addition.
 
