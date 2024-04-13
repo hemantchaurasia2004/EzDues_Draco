@@ -34,6 +34,12 @@ The project addresses the need for a seamless clearance process covering various
 - Super admin panel for easy maintenance, adding new departments, editing student roles, and closing accounts of graduated users.
 - Bulk addition of fines through Excel/CSV.
 
+### Entity Relationship Diagram
+
+
+![ezdues drawio](https://github.com/hemantchaurasia2004/EzDues_Draco/assets/115251521/6954e57f-db9c-4370-b4a6-e821b23bd314)
+
+
 ## Additional Features
 - **Certificate Verification using Blockchain (ERC721):** Implemented ERC721 to create "No Dues" certificates as Non-Fungible Tokens (NFTs), ensuring authenticity and security.
 
